@@ -96,7 +96,7 @@ const techStackImgs = [
   },
   {
     name: "Python Developer",
-    imgPath: "/images/logos/java.svg",
+    imgPath: "/images/logos/python.svg",
   },
   {
     name: "Backend Developer",
